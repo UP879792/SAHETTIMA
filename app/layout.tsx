@@ -13,7 +13,9 @@ const archivo = Archivo({
 const newsreader = Newsreader({
   subsets: ["latin"],
   weight: ["300", "400", "600"],
-  variable: "--font-serif"
+  variable: "--font-serif",
+  // Avoid build-time failure when font override metadata is missing.
+  adjustFontFallback: false
 });
 
 export const metadata: Metadata = {

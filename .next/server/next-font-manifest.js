@@ -1,1 +1,1 @@
-self.__NEXT_FONT_MANIFEST="{\"pages\":{},\"app\":{\"/Users/user/SAHETTIMA/app/layout\":[\"static/media/1a4aa50920b5315c-s.p.woff2\",\"static/media/5611c55482296524.p.woff2\"]},\"appUsingSizeAdjust\":true,\"pagesUsingSizeAdjust\":false}"
+self.__NEXT_FONT_MANIFEST='{"pages":{},"app":{"/Users/user/SAHETTIMA/app/layout":["static/media/1a4aa50920b5315c-s.p.woff2","static/media/5611c55482296524.p.woff2"]},"appUsingSizeAdjust":true,"pagesUsingSizeAdjust":false}';
