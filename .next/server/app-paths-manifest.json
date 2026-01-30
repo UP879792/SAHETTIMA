@@ -1,12 +1,4 @@
 {
-  "/_not-found/page": "app/_not-found/page.js",
-  "/about/page": "app/about/page.js",
   "/page": "app/page.js",
-  "/contact/page": "app/contact/page.js",
-  "/ppp-model/page": "app/ppp-model/page.js",
-  "/projects/page": "app/projects/page.js",
-  "/robots.txt/route": "app/robots.txt/route.js",
-  "/sustainability/page": "app/sustainability/page.js",
-  "/what-we-do/page": "app/what-we-do/page.js",
-  "/sitemap.xml/route": "app/sitemap.xml/route.js"
+  "/_not-found/page": "app/_not-found/page.js"
 }
